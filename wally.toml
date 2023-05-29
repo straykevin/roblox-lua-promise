@@ -3,7 +3,7 @@ name = "evaera/promise"
 description = "Promise implementation for Roblox"
 version = "4.0.0"
 license = "MIT"
-registry = "https://github.com/UpliftGames/wally-index"
+registry = "https://github.com/straykevin/wally-index"
 realm = "shared"
 include = ["lib", "default.project.json", "LICENSE"]
 
